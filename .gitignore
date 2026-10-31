@@ -1,0 +1,20 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Database files
+*.db
+*.sqlite3
+
+# Log files
+*.log
+Task3_NIDS/sample_logs/live_*.log
+
+# PCAP files (keep sample.pcap for demo, but ignore others)
+Task1_PacketAnalyzer/*.pcap
+!Task1_PacketAnalyzer/sample.pcap
+
+# OS generated files
+.DS_Store
+Thumbs.db

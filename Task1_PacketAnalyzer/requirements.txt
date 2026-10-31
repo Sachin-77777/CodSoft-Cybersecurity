@@ -1,0 +1,2 @@
+# Task 1 - Network Packet Analyzer
+scapy>=2.5.0

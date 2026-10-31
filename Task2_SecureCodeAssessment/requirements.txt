@@ -1,0 +1,2 @@
+# Task 2 - Secure Code Assessment
+Flask>=3.0.0

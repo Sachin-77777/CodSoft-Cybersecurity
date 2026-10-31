@@ -1,0 +1,5 @@
+# No third-party dependencies.
+#
+# The NIDS uses the Python standard library only (re, argparse, collections,
+# urllib, datetime, ctypes). This file exists so the task folder follows the
+# same layout as the others, and to make that explicit.

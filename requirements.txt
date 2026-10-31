@@ -1,0 +1,8 @@
+# Shared dependencies for the CodSoft Cyber Security internship tasks.
+#
+# Each task folder also ships its own requirements.txt; install this file for
+# everything at once, or the per-task file for a minimal environment.
+#
+# Task 3 (NIDS) is standard-library only and needs no extra packages.
+scapy>=2.5.0
+Flask>=3.0.0
