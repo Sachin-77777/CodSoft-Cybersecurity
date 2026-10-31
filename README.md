@@ -13,6 +13,7 @@ source, documentation and dependencies.
 ```
 CodSoft-Cybersecurity/
 ├── README.md                          <- this file: how to run each tool
+├── .gitignore  
 ├── requirements.txt                   <- shared dependencies
 ├── Task1_PacketAnalyzer/
 │   ├── packet_analyzer.py             <- packet capture & parsing CLI
